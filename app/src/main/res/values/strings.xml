@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retro Clock Widget</string>
+    <string name="appwidget_text">Retro Clock</string>
+    <string name="add_widget">Add widget</string>
+    <string name="configure">Configure</string>
+    <string name="desc">Go to widgets to find some Awesome Clock Widgets</string>
+</resources>
